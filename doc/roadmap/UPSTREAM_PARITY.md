@@ -64,3 +64,11 @@
 5. **ライセンスを分離**。本家の技術コードはMIT、キャラクター名・外観は本家別ライセンス。
 
 関連: [Architecture](../architecture/ARCHITECTURE.md) / [Rule Reference](../specifications/3D_RULES.md) / [参考資料](../references/REFERENCES.md)。
+
+## 追跡するGitHub Issue
+
+- [全体トラッカー #1](https://github.com/tomiya7688/Kadoka-3d-shougi-ai/issues/1) — M0からM4までのチェックリストと依存順。
+- [M0 ルール・ビルド・権利 #2, #3, #21](https://github.com/tomiya7688/Kadoka-3d-shougi-ai/issues/1) — 入口。
+- [M1 3D Core #4〜#10 / #18](https://github.com/tomiya7688/Kadoka-3d-shougi-ai/issues/1) — 最優先の正しさ。
+- [M2 Runtime #11〜#14 / #22](https://github.com/tomiya7688/Kadoka-3d-shougi-ai/issues/1) — 本家契約への追随。
+- [M3/M4 AI・学習・UI #15〜#17 / #19〜#20 / #23〜#26](https://github.com/tomiya7688/Kadoka-3d-shougi-ai/issues/1) — 基盤完成後に着手。
